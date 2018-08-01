@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoFac" Version="4.8.1" />
+    <PackageReference Include="FluentValidation" Version="7.6.104" />
+  </ItemGroup>
+
+</Project>
